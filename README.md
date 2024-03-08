@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/omegame"><img src="https://api.daily.dev/devcards/v2/Scut0LUswu5g5gxOzqTAw.png?type=default&r=rnt" width="356" alt="Jérémy Grelier's Dev Card"/></a>
+<a href="https://app.daily.dev/omegame"><img src="./devcard.png" width="356" alt="Jérémy Grelier's Dev Card"/></a>
 <!--
 **JereGrelier/JereGrelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
